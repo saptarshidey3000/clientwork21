@@ -10,22 +10,22 @@ const About = () => {
   // Client provided images
   const clientImages = [
     {
-      src: "/p1.jpg", // Building image
+      src: "/p1.jpg", // This will be replaced with the actual building image
       alt: "GreenView Clinic & Nursing Home Building",
       title: "Our Modern Facility"
     },
     {
-      src: "/p2.jpg", // Founders image
+      src: "/p2.jpg", // This will be replaced with the founders image
       alt: "Founders of GreenView Clinic",
       title: "Our Founding Team"
     },
     {
-      src: "/p3.jpg", // Sai Baba image
+      src: "/p3.jpg", // This will be replaced with the Sai Baba image
       alt: "Sai Baba Shrine",
       title: "Spiritual Corner"
     },
     {
-      src: "/p4.jpg", // Certificate image
+      src: "/p4.jpg", // This will be replaced with the certificate image
       alt: "NABH Accreditation Certificate",
       title: "Quality Certification"
     }
@@ -49,11 +49,11 @@ const About = () => {
       alt: "Clinic facility",
       title: "Patient Care Area"
     },
-    {
-      src: "https://cdn.builder.io/api/v1/image/assets%2F4e2303e1928f449baa3200dabb2284fa%2F81b2f6f49c464674b84b3f5c70c7f072?format=webp&width=800",
-      alt: "Clinic facility",
-      title: "Consultation Room"
-    },
+    // {
+    //   src: "https://cdn.builder.io/api/v1/image/assets%2F4e2303e1928f449baa3200dabb2284fa%2F81b2f6f49c464674b84b3f5c70c7f072?format=webp&width=800",
+    //   alt: "Clinic facility",
+    //   title: "Consultation Room"
+    // },
     {
       src: "https://cdn.builder.io/api/v1/image/assets%2F4e2303e1928f449baa3200dabb2284fa%2F14092889bb0e4f05877fe79ac0dec063?format=webp&width=800",
       alt: "Clinic facility",
@@ -69,11 +69,11 @@ const About = () => {
       alt: "Clinic facility",
       title: "Pharmacy"
     },
-    {
-      src: "https://cdn.builder.io/api/v1/image/assets%2F4e2303e1928f449baa3200dabb2284fa%2Fb2e783bb7b0548fe8e1410e5c87ef026?format=webp&width=800",
-      alt: "Clinic facility",
-      title: "Emergency Ward"
-    },
+    // {
+    //   src: "https://cdn.builder.io/api/v1/image/assets%2F4e2303e1928f449baa3200dabb2284fa%2Fb2e783bb7b0548fe8e1410e5c87ef026?format=webp&width=800",
+    //   alt: "Clinic facility",
+    //   title: "Emergency Ward"
+    // },
     {
       src: "https://cdn.builder.io/api/v1/image/assets%2F4e2303e1928f449baa3200dabb2284fa%2Fba81d03916c9458aaf9ca7a239680aeb?format=webp&width=800",
       alt: "Clinic facility",
