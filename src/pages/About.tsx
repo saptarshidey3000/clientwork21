@@ -170,7 +170,7 @@ const About = () => {
   ];
 
   const milestones = [
-    { year: "1984", title: "Founded", description: "GreenView Nursing Home established on 1st March 1984 by Late Dr. Tarun Kumar Adhikary" },
+    { year: "1986", title: "Founded", description: "GreenView Nursing Home established on 1st March 1986 by Late Dr. Tarun Kumar Adhikary" },
     { year: "2015", title: "ISO Certified", description: "Achieved ISO 9001:2015 certification for quality management" },
     { year: "2021", title: "NABH Accredited", description: "Received NABH accreditation for healthcare quality standards" },
     { year: "2024", title: "Modern Expansion", description: "Upgraded facilities with latest medical equipment and technology" }
@@ -208,7 +208,7 @@ const About = () => {
             </h1>
             <p className="text-xl opacity-90 leading-relaxed">
               GreenView Nursing Home has been serving the Naihati community with 
-              compassionate healthcare services, modern facilities, and experienced medical professionals since 1984.
+              compassionate healthcare services, modern facilities, and experienced medical professionals since 1986.
             </p>
           </div>
         </div>
@@ -223,7 +223,7 @@ const About = () => {
                 Our Story
               </h2>
               <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                GreenView Nursing Home was established on <strong>1st March 1984</strong> by the visionary 
+                GreenView Nursing Home was established on <strong>1st March 1986</strong> by the visionary 
                 <strong> Late Dr. Tarun Kumar Adhikary</strong> with a simple yet profound mission: 
                 to provide quality healthcare services in a compassionate environment. 
                 Located in the heart of Naihati, West Bengal, we have been serving our 
