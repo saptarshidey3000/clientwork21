@@ -93,7 +93,57 @@ const About = () => {
       src: "https://cdn.builder.io/api/v1/image/assets%2F4e2303e1928f449baa3200dabb2284fa%2Fcdc314b2a96f4e9db5e5900ad81df65f?format=webp&width=800",
       alt: "Clinic facility",
       title: "Surgery Suite"
-    }
+    },
+     {
+      src: "/p5.jpg",
+      alt: "Clinic facility",
+      title: "Surgery Suite"
+    } ,
+        {
+      src: "/p6.jpg",
+      alt: "Clinic facility",
+      title: "Surgery Suite"
+    } ,
+        {
+      src: "/p7.jpg",
+      alt: "Clinic facility",
+      title: "Surgery Suite"
+    } ,
+        {
+      src: "/p8.jpg",
+      alt: "Clinic facility",
+      title: "Surgery Suite"
+    } ,
+        {
+      src: "/p9.jpg",
+      alt: "Clinic facility",
+      title: "Surgery Suite"
+    } ,
+        {
+      src: "/p11.jpg",
+      alt: "Clinic facility",
+      title: "Surgery Suite"
+    } ,
+        {
+      src: "/p13.jpg",
+      alt: "Clinic facility",
+      title: "Surgery Suite"
+    } ,
+        {
+      src: "/p16.jpg",
+      alt: "Clinic facility",
+      title: "Surgery Suite"
+    } ,
+        {
+      src: "/p17.jpg",
+      alt: "Clinic facility",
+      title: "Surgery Suite"
+    } ,
+        {
+      src: "/p19.jpg",
+      alt: "Clinic facility",
+      title: "Surgery Suite"
+    } ,
   ];
 
   const values = [
