@@ -55,14 +55,14 @@ const Doctors = () => {
       experience: "8+ Years",
       description: "Clinical oncologist specializing in cancer diagnosis, treatment, and patient care."
     },
-    {
-      name: "Dr. Avijit Mitra",
-      qualification: "DNB, MCH (Gen+Paediatric Surgeon)",
-      specialty: "General & Pediatric Surgery",
-      availability: "Monday, Friday, Saturday 4:00 PM",
-      experience: "11+ Years",
-      description: "Surgeon specializing in general and pediatric surgical procedures."
-    },
+    // {
+    //   name: "Dr. Avijit Mitra",
+    //   qualification: "DNB, MCH (Gen+Paediatric Surgeon)",
+    //   specialty: "General & Pediatric Surgery",
+    //   availability: "Monday, Friday, Saturday 4:00 PM",
+    //   experience: "11+ Years",
+    //   description: "Surgeon specializing in general and pediatric surgical procedures."
+    // },
     {
       name: "Dr. Abhishek Chakraborty",
       qualification: "M.D, D.M (Nephrologist)",
@@ -79,14 +79,14 @@ const Doctors = () => {
       experience: "13+ Years",
       description: "ENT specialist with expertise in disorders of ear, nose, throat, and head-neck region."
     },
-    {
-      name: "Dr. Shuva Bhattacharya",
-      qualification: "MBBS (WBUHS) (General Physician)",
-      specialty: "General Medicine",
-      availability: "By Appointment",
-      experience: "7+ Years",
-      description: "General physician providing comprehensive primary healthcare services."
-    },
+    // {
+    //   name: "Dr. Shuva Bhattacharya",
+    //   qualification: "MBBS (WBUHS) (General Physician)",
+    //   specialty: "General Medicine",
+    //   availability: "By Appointment",
+    //   experience: "7+ Years",
+    //   description: "General physician providing comprehensive primary healthcare services."
+    // },
     {
       name: "Dr. Goutam Kumar Ray",
       qualification: "MBBS, DGO (Obstetrician + Gynecologist)",
